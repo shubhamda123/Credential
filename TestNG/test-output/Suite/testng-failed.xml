@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="user1" value="ssss"/>
+    <parameter name="password" value="qqqq"/>
+    <parameter name="pass" value="sdcsc"/>
+    <parameter name="pass1" value="dddd"/>
+    <parameter name="password1" value="aaaa"/>
+    <parameter name="username1" value="AAAA"/>
+    <parameter name="user" value="dwse"/>
+    <parameter name="url" value="https://demo.guru99.com/test/newtours/"/>
+    <parameter name="username" value="QQQQ"/>
+    <classes>
+      <class name="com.cjc.XML.MercuryTours_login">
+        <methods>
+          <include name="browserClose"/>
+          <include name="maximizePage"/>
+          <include name="openUrl"/>
+          <include name="loginwithValidDetails" invocation-numbers="0"/>
+          <include name="deleteCookies"/>
+          <include name="openBrowser"/>
+          <include name="dataBaseClose"/>
+          <include name="pageLoadtimeOut"/>
+          <include name="CaptureScreenShot"/>
+        </methods>
+      </class> <!-- com.cjc.XML.MercuryTours_login -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

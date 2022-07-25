@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-03T21:08:05 IST" name="Default suite" finished-at="2022-07-03T21:08:24 IST" duration-ms="18486">
+    <groups>
+    </groups>
+    <test started-at="2022-07-03T21:08:05 IST" name="Default test" finished-at="2022-07-03T21:08:24 IST" duration-ms="18486">
+      <class name="DataDrivenExcel_Concept.DataRead_Write">
+        <test-method signature="method()[pri:0, instance:DataDrivenExcel_Concept.DataRead_Write@503d687a]" started-at="2022-07-03T21:08:05 IST" name="method" finished-at="2022-07-03T21:08:24 IST" duration-ms="18411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- DataDrivenExcel_Concept.DataRead_Write -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

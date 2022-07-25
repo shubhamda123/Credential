@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T21:29:09 IST" name="Default suite" finished-at="2022-07-22T21:29:22 IST" duration-ms="13486">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T21:29:09 IST" name="Default test" finished-at="2022-07-22T21:29:22 IST" duration-ms="13486">
+      <class name="com.cjc.MercuryTours_login_DataProvider">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:05 IST" name="openBrowser" finished-at="2022-07-22T21:29:09 IST" duration-ms="3492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:09 IST" name="openUrl" finished-at="2022-07-22T21:29:13 IST" duration-ms="3813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="maximizePage()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:13 IST" name="maximizePage" finished-at="2022-07-22T21:29:13 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizePage -->
+        <test-method is-config="true" signature="pageLoadtimeOut()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:13 IST" name="pageLoadtimeOut" finished-at="2022-07-22T21:29:13 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoadtimeOut -->
+        <test-method signature="loginwithValidDetails(java.lang.String,java.lang.String)[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:13 IST" name="loginwithValidDetails" data-provider="getData" finished-at="2022-07-22T21:29:17 IST" duration-ms="3871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dwse]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdcsc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidDetails -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:17 IST" name="CaptureScreenShot" finished-at="2022-07-22T21:29:18 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="pageLoadtimeOut()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:18 IST" name="pageLoadtimeOut" finished-at="2022-07-22T21:29:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoadtimeOut -->
+        <test-method signature="loginwithValidDetails(java.lang.String,java.lang.String)[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:18 IST" name="loginwithValidDetails" data-provider="getData" finished-at="2022-07-22T21:29:21 IST" duration-ms="3847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AAAA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidDetails -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:21 IST" name="CaptureScreenShot" finished-at="2022-07-22T21:29:22 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:22 IST" name="deleteCookies" finished-at="2022-07-22T21:29:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dataBaseClose()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:22 IST" name="dataBaseClose" finished-at="2022-07-22T21:29:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseClose -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.cjc.MercuryTours_login_DataProvider@22e357dc]" started-at="2022-07-22T21:29:22 IST" name="browserClose" finished-at="2022-07-22T21:29:23 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.cjc.MercuryTours_login_DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
