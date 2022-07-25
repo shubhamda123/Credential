@@ -1,0 +1,135 @@
+INFO	2022-06-29 23:31:24,350	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:31:28,412	4062	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:32:07,435	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:32:11,692	4257	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:32:51,289	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:32:55,122	3833	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:33:43,590	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:33:48,437	4847	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:35:13,447	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:35:17,349	3902	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:36:15,686	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:36:19,877	4191	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:36:35,926	20240	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-29 23:37:29,724	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:37:33,780	4056	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:37:49,087	19363	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-29 23:38:42,173	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:38:46,386	4213	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:39:01,521	19348	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-29 23:39:03,945	21772	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-06-29 23:39:49,774	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:39:53,528	3754	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:40:45,090	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:40:48,846	3756	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-29 23:41:06,280	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-29 23:41:10,525	4245	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:17:45,568	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:26:40,112	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:26:45,685	5573	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:27:23,224	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:27:27,902	4678	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:28:49,828	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:28:54,321	4493	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:29:11,999	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:29:16,149	4150	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:29:49,788	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:29:53,815	4027	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:32:53,001	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:32:58,809	5808	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:40:24,576	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:40:29,546	4970	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:41:35,555	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:41:41,706	6151	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:42:08,266	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:42:14,167	5901	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:42:35,244	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:42:38,948	3704	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:43:28,111	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:43:32,630	4519	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 10:44:21,044	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 10:44:24,849	3805	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:09:42,545	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:09:46,535	3990	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:09:56,765	14220	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:10:07,844	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:10:11,863	4019	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:10:21,977	14133	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:11:24,724	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:11:28,534	3810	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:11:38,646	13922	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:13:43,757	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:13:47,606	3849	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:13:57,765	14008	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:14:35,654	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:14:39,782	4128	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:14:40,637	4983	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:15:12,366	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:15:16,491	4125	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:15:26,656	14290	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:16:41,261	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:16:45,389	4128	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:16:55,521	14260	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:18:00,528	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:18:04,350	3822	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:18:14,486	13958	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:19:39,820	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:19:43,523	3703	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:19:53,685	13865	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:20:12,000	32180	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-30 13:20:18,740	38920	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-06-30 13:23:40,192	1	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:23:44,311	4120	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:23:54,420	14229	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:24:25,539	45348	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-30 13:24:37,923	57732	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-06-30 13:24:37,981	57790	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
+INFO	2022-06-30 13:29:28,914	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:29:34,099	5185	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:29:44,237	15323	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 13:32:50,478	1	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 13:32:54,989	4512	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 13:33:05,134	14657	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 18:53:53,746	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 18:54:01,353	7607	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 18:54:11,603	17857	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 18:54:48,532	54786	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-30 18:54:48,976	55230	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-06-30 19:01:07,449	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-06-30 19:01:11,704	4255	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-06-30 19:01:21,854	14405	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-06-30 19:01:59,274	51825	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-06-30 19:01:59,709	52260	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 13:51:36,578	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 13:51:46,057	9479	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 13:51:56,540	19962	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 13:52:14,941	38363	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-07-02 13:52:17,106	40528	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 13:52:17,186	40608	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
+INFO	2022-07-02 13:56:01,501	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 13:56:05,858	4357	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 13:56:16,079	14578	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 13:56:31,394	29893	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-07-02 13:56:33,624	32123	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 13:56:33,676	32175	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
+INFO	2022-07-02 13:58:21,422	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 13:58:25,617	4195	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 13:58:35,801	14379	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 13:58:51,372	29950	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-07-02 13:58:53,404	31982	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 13:58:53,482	32060	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
+INFO	2022-07-02 14:02:27,808	1	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 14:02:31,877	4070	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 14:02:42,014	14207	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 14:03:36,329	68522	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-07-02 14:03:39,184	71377	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 14:03:39,256	71449	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
+INFO	2022-07-02 22:15:49,917	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 22:15:54,530	4613	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 22:16:06,647	16730	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 22:16:56,790	0	com.cjc.automation.webapp.testcases.BaseClass	[main]	*******launch browser******
+INFO	2022-07-02 22:17:00,566	3776	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Login starts*****************
+INFO	2022-07-02 22:17:12,763	15973	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login starts*****************
+INFO	2022-07-02 22:17:38,004	41214	com.cjc.automation.webapp.testcases.BaseClass	[main]	entered user details on account creation page.
+INFO	2022-07-02 22:17:51,823	55033	com.cjc.automation.webapp.testcases.BaseClass	[main]	clicked on Register button
+INFO	2022-07-02 22:17:51,895	55105	com.cjc.automation.webapp.testcases.BaseClass	[main]	***************TestCase Verify Registration and Login ends*****************
