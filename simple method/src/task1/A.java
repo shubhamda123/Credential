@@ -6,6 +6,7 @@ public class A {
 	{
 		 System.out.println("m1--A");
 		 System.out.println("Hello world");
+		System.out.println("Welcome to wardha");
 		
 	}
 	
