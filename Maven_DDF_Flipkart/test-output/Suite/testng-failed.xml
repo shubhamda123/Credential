@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.cjc.fk.webapp.test.FlipkartTest">
+        <methods>
+          <include name="searchProd" invocation-numbers="0"/>
+          <include name="openBrowser"/>
+          <include name="dataBaseClose"/>
+          <include name="browserClose"/>
+          <include name="cookies"/>
+          <include name="openUrl"/>
+          <include name="CaptureScreenShot"/>
+          <include name="maximizePage"/>
+          <include name="deleteCookies"/>
+        </methods>
+      </class> <!-- com.cjc.fk.webapp.test.FlipkartTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

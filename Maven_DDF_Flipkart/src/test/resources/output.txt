@@ -1,0 +1,266 @@
+INFO	2022-06-27 11:45:57,922	0	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 11:46:01,887	3965	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 11:46:08,540	10618	com.cjc.fk.webapp.test.FlipkartTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 11:46:08,830	10908	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 11:46:09,003	11081	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 11:46:09,004	11082	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 11:46:09,004	11082	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:09,004	11082	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:09,006	11084	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 11:46:09,006	11084	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 11:46:09,006	11084	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 11:46:09,007	11085	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 11:46:12,357	14435	com.cjc.fk.webapp.test.FlipkartTest	[main]	username=9637191923
+INFO	2022-06-27 11:46:12,357	14435	com.cjc.fk.webapp.test.FlipkartTest	[main]	Password=shubham@123
+INFO	2022-06-27 11:46:13,255	15333	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 11:46:13,913	15991	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 11:46:16,337	18415	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 11:46:16,337	18415	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 11:46:16,337	18415	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:16,337	18415	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:16,337	18415	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 11:46:16,338	18416	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 11:46:16,340	18418	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 11:46:16,340	18418	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 11:46:16,340	18418	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 11:46:16,341	18419	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 11:46:16,341	18419	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 11:46:16,341	18419	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 11:46:16,341	18419	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 11:46:16,341	18419	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 11:46:25,022	27100	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 11:46:26,171	28249	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 11:46:26,412	28490	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 11:46:26,412	28490	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 11:46:26,412	28490	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:26,412	28490	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 11:46:26,413	28491	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 11:46:26,413	28491	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 11:46:26,413	28491	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 11:46:26,413	28491	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 11:46:26,414	28492	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 11:46:26,414	28492	com.cjc.fk.webapp.test.FlipkartTest	[main]	qH
+INFO	2022-06-27 11:46:26,414	28492	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 11:46:26,414	28492	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 11:46:26,414	28492	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 11:46:26,415	28493	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 11:46:26,415	28493	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 11:46:35,381	37459	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 11:46:36,058	38136	com.cjc.fk.webapp.test.FlipkartTest	[main]	delete cookies in after class
+INFO	2022-06-27 11:46:36,059	38137	com.cjc.fk.webapp.test.FlipkartTest	[main]	Database close in after Test
+INFO	2022-06-27 11:46:36,119	38197	com.cjc.fk.webapp.test.FlipkartTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 14:14:40,618	0	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 14:14:45,542	4924	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 14:14:53,924	13306	com.cjc.fk.webapp.test.FlipkartTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 14:14:54,142	13524	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:14:54,186	13568	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:14:54,187	13569	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:14:54,187	13569	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:14:54,187	13569	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:14:54,188	13570	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:14:54,188	13570	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:14:54,188	13570	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 14:14:54,189	13571	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:14:54,189	13571	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:14:54,189	13571	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:14:54,189	13571	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 14:14:54,189	13571	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 14:14:54,190	13572	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:14:57,525	16907	com.cjc.fk.webapp.test.FlipkartTest	[main]	username=9637191923
+INFO	2022-06-27 14:14:57,525	16907	com.cjc.fk.webapp.test.FlipkartTest	[main]	Password=shubham@123
+INFO	2022-06-27 14:14:58,235	17617	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:14:58,861	18243	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:14:58,910	18292	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:14:58,911	18293	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 14:14:58,911	18293	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:14:58,911	18293	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:14:58,911	18293	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:14:58,911	18293	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 14:14:58,912	18294	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 14:14:58,912	18294	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:14:58,912	18294	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 14:15:08,963	28345	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:15:09,586	28968	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:15:09,727	29109	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:15:09,728	29110	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:15:09,728	29110	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:09,728	29110	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:09,728	29110	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:15:09,728	29110	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	qH
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-06-27 14:15:09,729	29111	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-06-27 14:15:09,730	29112	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:15:09,730	29112	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 14:15:16,722	36104	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:15:29,769	0	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 14:15:33,509	3740	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 14:15:38,535	8766	com.cjc.fk.webapp.test.FlipkartTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 14:15:38,792	9023	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:15:38,850	9081	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:15:38,851	9082	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:38,851	9082	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:38,852	9083	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:15:38,852	9083	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:15:38,852	9083	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:15:38,852	9083	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:15:38,853	9084	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:15:38,853	9084	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:15:42,365	12596	com.cjc.fk.webapp.test.FlipkartTest	[main]	username=9637191923
+INFO	2022-06-27 14:15:42,366	12597	com.cjc.fk.webapp.test.FlipkartTest	[main]	Password=shubham@123
+INFO	2022-06-27 14:15:43,300	13531	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:15:46,539	16770	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:15:46,556	16787	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:15:46,557	16788	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:46,557	16788	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:46,557	16788	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:15:46,557	16788	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:15:46,557	16788	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:15:46,558	16789	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:15:46,558	16789	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:15:46,558	16789	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:15:46,558	16789	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:15:55,364	25595	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:15:56,354	26585	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:15:56,646	26877	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	qH
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:15:56,647	26878	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 14:16:05,702	35933	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:16:06,376	36607	com.cjc.fk.webapp.test.FlipkartTest	[main]	delete cookies in after class
+INFO	2022-06-27 14:16:06,377	36608	com.cjc.fk.webapp.test.FlipkartTest	[main]	Database close in after Test
+INFO	2022-06-27 14:16:06,438	36669	com.cjc.fk.webapp.test.FlipkartTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 14:20:33,825	1	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 14:20:39,524	5700	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 14:21:41,492	0	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 14:21:45,241	3749	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 14:21:55,195	13703	com.cjc.fk.webapp.test.FlipkartTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 14:21:55,468	13976	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:21:55,531	14039	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:21:55,531	14039	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:21:55,531	14039	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:21:55,532	14040	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:21:55,532	14040	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:21:55,532	14040	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:21:55,532	14040	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:21:55,532	14040	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:21:55,533	14041	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:21:55,533	14041	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:21:58,940	17448	com.cjc.fk.webapp.test.FlipkartTest	[main]	username=9637191923
+INFO	2022-06-27 14:21:58,940	17448	com.cjc.fk.webapp.test.FlipkartTest	[main]	Password=shubham@123
+INFO	2022-06-27 14:21:59,621	18129	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:22:04,113	22621	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:22:05,809	24317	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:22:05,810	24318	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:22:05,811	24319	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:22:05,811	24319	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:22:05,811	24319	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:22:17,432	35940	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:22:18,669	37177	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-06-27 14:22:18,707	37215	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	qH
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-06-27 14:22:18,708	37216	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-06-27 14:22:26,860	45368	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 14:22:27,599	46107	com.cjc.fk.webapp.test.FlipkartTest	[main]	delete cookies in after class
+INFO	2022-06-27 14:22:27,600	46108	com.cjc.fk.webapp.test.FlipkartTest	[main]	Database close in after Test
+INFO	2022-06-27 14:22:27,655	46163	com.cjc.fk.webapp.test.FlipkartTest	[main]	Browser close in after afterSuite
+INFO	2022-07-06 20:28:15,208	0	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-07-06 20:28:20,173	4965	com.cjc.fk.webapp.test.FlipkartTest	[main]	OPen Url in BeforeTest
+INFO	2022-07-06 20:28:24,117	8909	com.cjc.fk.webapp.test.FlipkartTest	[main]	maximize webpage in BeforeClass
+INFO	2022-07-06 20:28:24,388	9180	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-07-06 20:28:24,478	9270	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-07-06 20:28:24,478	9270	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_rf
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	at
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-07-06 20:28:24,479	9271	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-07-06 20:28:24,480	9272	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-07-06 20:28:28,143	12935	com.cjc.fk.webapp.test.FlipkartTest	[main]	username=9637191923
+INFO	2022-07-06 20:28:28,143	12935	com.cjc.fk.webapp.test.FlipkartTest	[main]	Password=shubham@123
+INFO	2022-07-06 20:28:28,844	13636	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-07-06 20:28:29,282	14074	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-07-06 20:28:31,530	16322	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-07-06 20:28:31,530	16322	com.cjc.fk.webapp.test.FlipkartTest	[main]	rt
+INFO	2022-07-06 20:28:31,530	16322	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-07-06 20:28:31,530	16322	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_rf
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	at
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-07-06 20:28:31,531	16323	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-07-06 20:28:31,532	16324	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-07-06 20:28:31,533	16325	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-07-06 20:28:31,533	16325	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-07-06 20:28:31,533	16325	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-07-06 20:28:31,533	16325	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-07-06 20:28:31,534	16326	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-07-06 20:28:41,615	26407	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-07-06 20:28:42,811	27603	com.cjc.fk.webapp.test.FlipkartTest	[main]	This is Before method Annottion
+INFO	2022-07-06 20:28:43,030	27822	com.cjc.fk.webapp.test.FlipkartTest	[main]	_px3
+INFO	2022-07-06 20:28:43,030	27822	com.cjc.fk.webapp.test.FlipkartTest	[main]	rt
+INFO	2022-07-06 20:28:43,030	27822	com.cjc.fk.webapp.test.FlipkartTest	[main]	Network-Type
+INFO	2022-07-06 20:28:43,030	27822	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCV_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:43,031	27823	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_rf
+INFO	2022-07-06 20:28:43,031	27823	com.cjc.fk.webapp.test.FlipkartTest	[main]	AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg
+INFO	2022-07-06 20:28:43,031	27823	com.cjc.fk.webapp.test.FlipkartTest	[main]	S
+INFO	2022-07-06 20:28:43,031	27823	com.cjc.fk.webapp.test.FlipkartTest	[main]	at
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	T
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxff_ddtc
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	_pxvid
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	qH
+INFO	2022-07-06 20:28:43,032	27824	com.cjc.fk.webapp.test.FlipkartTest	[main]	pxcts
+INFO	2022-07-06 20:28:43,033	27825	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_cc
+INFO	2022-07-06 20:28:43,033	27825	com.cjc.fk.webapp.test.FlipkartTest	[main]	SN
+INFO	2022-07-06 20:28:43,033	27825	com.cjc.fk.webapp.test.FlipkartTest	[main]	gpv_pn_t
+INFO	2022-07-06 20:28:43,033	27825	com.cjc.fk.webapp.test.FlipkartTest	[main]	s_sq
+INFO	2022-07-06 20:28:51,887	36679	com.cjc.fk.webapp.test.FlipkartTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-07-06 20:28:52,465	37257	com.cjc.fk.webapp.test.FlipkartTest	[main]	delete cookies in after class
+INFO	2022-07-06 20:28:52,466	37258	com.cjc.fk.webapp.test.FlipkartTest	[main]	Database close in after Test
+INFO	2022-07-06 20:28:52,584	37376	com.cjc.fk.webapp.test.FlipkartTest	[main]	Browser close in after afterSuite

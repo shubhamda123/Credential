@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T17:32:48 IST" name="Default suite" finished-at="2022-06-08T17:33:03 IST" duration-ms="15371">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T17:32:48 IST" name="Default test" finished-at="2022-06-08T17:33:03 IST" duration-ms="15371">
+      <class name="com.cjc.Mercury_properties_Excel">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:44 IST" name="openBrowser" finished-at="2022-06-08T17:32:48 IST" duration-ms="3491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:48 IST" name="openUrl" finished-at="2022-06-08T17:32:51 IST" duration-ms="3402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="maximizePage()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:51 IST" name="maximizePage" finished-at="2022-06-08T17:32:51 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizePage -->
+        <test-method is-config="true" signature="pageLoadtimeOut()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:51 IST" name="pageLoadtimeOut" finished-at="2022-06-08T17:32:51 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoadtimeOut -->
+        <test-method signature="loginwithValidDetails()[pri:1, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:51 IST" name="loginwithValidDetails" finished-at="2022-06-08T17:32:58 IST" duration-ms="7011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidDetails -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:58 IST" name="CaptureScreenShot" finished-at="2022-06-08T17:32:59 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="pageLoadtimeOut()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:59 IST" name="pageLoadtimeOut" finished-at="2022-06-08T17:32:59 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoadtimeOut -->
+        <test-method signature="loginwithValidDetails1()[pri:2, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:32:59 IST" name="loginwithValidDetails1" finished-at="2022-06-08T17:33:03 IST" duration-ms="3786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidDetails1 -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:33:03 IST" name="CaptureScreenShot" finished-at="2022-06-08T17:33:03 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:33:03 IST" name="deleteCookies" finished-at="2022-06-08T17:33:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dataBaseClose()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:33:03 IST" name="dataBaseClose" finished-at="2022-06-08T17:33:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseClose -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.cjc.Mercury_properties_Excel@74d1dc36]" started-at="2022-06-08T17:33:03 IST" name="browserClose" finished-at="2022-06-08T17:33:04 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.cjc.Mercury_properties_Excel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

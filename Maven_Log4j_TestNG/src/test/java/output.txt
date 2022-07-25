@@ -1,0 +1,9 @@
+INFO	2022-06-29 21:41:44,503	0	com.org.DemoWebShop_Register	[main]	this chrome browser Before suite
+INFO	2022-06-29 21:41:48,210	3707	com.org.DemoWebShop_Register	[main]	Before Test
+INFO	2022-06-29 21:41:49,955	5452	com.org.DemoWebShop_Register	[main]	Before class
+INFO	2022-06-29 21:41:50,200	5697	com.org.DemoWebShop_Register	[main]	Before method
+INFO	2022-06-29 21:41:50,254	5751	com.org.DemoWebShop_Register	[main]	no of cookies=8
+ERROR	2022-06-29 21:41:52,162	7659	com.org.DemoWebShop_Register	[main]	register successfully
+INFO	2022-06-29 21:41:52,493	7990	com.org.DemoWebShop_Register	[main]	Delete cookies
+INFO	2022-06-29 21:41:52,496	7993	com.org.DemoWebShop_Register	[main]	data base close
+INFO	2022-06-29 21:41:52,580	8077	com.org.DemoWebShop_Register	[main]	After suite

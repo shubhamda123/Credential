@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.cjc.DWS.webapp.test.DWSTest">
+        <methods>
+          <include name="browserClose"/>
+          <include name="openBrowser"/>
+          <include name="loginTest"/>
+          <include name="openUrl"/>
+          <include name="paymentTest"/>
+          <include name="deleteCookies"/>
+          <include name="billingTest"/>
+          <include name="cookies"/>
+          <include name="CaptureScreenShot"/>
+          <include name="dataBaseClose"/>
+          <include name="registerTest"/>
+          <include name="addcartTest"/>
+          <include name="maximizePage"/>
+        </methods>
+      </class> <!-- com.cjc.DWS.webapp.test.DWSTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

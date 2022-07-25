@@ -1,0 +1,423 @@
+INFO	2022-06-27 16:35:34,719	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 16:35:38,656	3937	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 16:35:40,809	6090	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 16:35:40,991	6272	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 16:35:41,021	6302	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 16:35:41,021	6302	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 16:35:41,021	6302	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 16:35:41,021	6302	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 16:35:41,046	6327	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 16:35:41,047	6328	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 16:35:41,047	6328	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 16:35:41,047	6328	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 16:35:41,067	6348	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 16:35:41,370	6651	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 16:35:41,373	6654	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 16:35:41,445	6726	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 16:56:48,727	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 16:56:52,720	3993	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 16:56:54,399	5672	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 16:56:54,559	5832	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 16:56:54,585	5858	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 16:56:54,586	5859	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 16:56:54,586	5859	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 16:56:58,042	9315	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 16:56:58,042	9315	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 16:56:58,042	9315	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 16:56:58,042	9315	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 16:56:58,043	9316	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 16:56:59,320	10593	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 16:56:59,713	10986	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 16:56:59,724	10997	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 16:56:59,850	11123	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 17:13:45,659	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 17:13:49,935	4276	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 17:14:38,903	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 17:30:13,045	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 17:30:17,897	4852	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 17:30:21,192	8147	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 17:30:21,371	8326	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:30:21,401	8356	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:30:21,401	8356	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:30:21,402	8357	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:30:21,402	8357	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:30:21,402	8357	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:30:21,402	8357	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:30:21,403	8358	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:30:21,403	8358	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:30:24,767	11722	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 17:30:24,768	11723	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 17:30:24,768	11723	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 17:30:24,768	11723	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:30:24,768	11723	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:30:27,728	14683	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:30:27,991	14946	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:30:28,005	14960	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 17:30:28,005	14960	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:30:28,006	14961	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:30:41,560	28515	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:30:41,804	28759	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 17:30:41,805	28760	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 17:30:41,858	28813	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 17:31:52,744	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 17:31:56,609	3865	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 17:32:07,280	14536	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 17:32:07,463	14719	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:32:07,498	14754	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:32:07,498	14754	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:32:07,498	14754	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:32:07,499	14755	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:32:07,499	14755	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:32:07,499	14755	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:32:07,499	14755	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:32:07,499	14755	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:32:11,432	18688	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 17:32:11,433	18689	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 17:32:11,433	18689	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 17:32:11,433	18689	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:32:11,433	18689	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:32:13,910	21166	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:32:14,237	21493	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:32:14,259	21515	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:32:14,260	21516	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:32:14,261	21517	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:32:21,826	29082	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:32:22,162	29418	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 17:32:22,162	29418	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 17:32:22,230	29486	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 17:58:53,986	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 17:58:58,355	4369	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 17:59:00,544	6558	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 17:59:00,769	6783	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:59:00,805	6819	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:59:00,806	6820	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:59:00,806	6820	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:59:00,806	6820	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:59:00,806	6820	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:59:00,807	6821	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:59:00,807	6821	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:59:00,807	6821	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:59:13,172	19186	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:59:13,422	19436	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:59:13,435	19449	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:59:13,436	19450	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:59:16,782	22796	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 17:59:16,782	22796	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 17:59:16,782	22796	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 17:59:16,783	22797	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:59:16,783	22797	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 17:59:26,889	32903	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:59:27,234	33248	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 17:59:27,247	33261	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 17:59:27,248	33262	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 17:59:27,248	33262	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 17:59:31,766	37780	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 17:59:32,106	38120	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 17:59:32,107	38121	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 17:59:32,207	38221	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 18:00:06,753	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:00:11,544	4791	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 18:00:13,446	6693	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 18:00:13,656	6903	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:00:13,691	6938	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:00:13,691	6938	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:00:13,691	6938	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:00:13,691	6938	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:00:13,692	6939	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:00:13,692	6939	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:00:13,692	6939	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:00:13,692	6939	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:00:17,115	10362	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 18:00:17,116	10363	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 18:00:17,116	10363	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 18:00:17,116	10363	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:00:17,116	10363	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:00:19,482	12729	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:00:19,804	13051	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:00:19,822	13069	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:00:19,822	13069	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:00:19,822	13069	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:00:19,822	13069	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:00:19,822	13069	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:00:19,823	13070	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:00:19,823	13070	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:00:19,823	13070	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:00:24,296	17543	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:00:24,633	17880	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:00:24,650	17897	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:00:24,650	17897	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:00:24,650	17897	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:00:24,650	17897	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:00:24,650	17897	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:00:24,651	17898	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:00:24,651	17898	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:00:24,651	17898	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:00:24,651	17898	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:00:38,330	31577	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:00:38,514	31761	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 18:00:38,516	31763	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 18:00:38,585	31832	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 18:34:22,693	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:34:27,604	4911	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 18:34:29,605	6912	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 18:34:29,779	7086	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:34:29,810	7117	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:34:29,810	7117	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:34:29,810	7117	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:34:29,811	7118	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:34:29,811	7118	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:34:29,811	7118	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:34:29,811	7118	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:34:29,811	7118	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:34:33,417	10724	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 18:34:33,418	10725	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 18:34:33,418	10725	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 18:34:33,418	10725	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:34:33,418	10725	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:34:35,606	12913	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:34:35,967	13274	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:34:35,996	13303	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:34:35,996	13303	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:34:35,997	13304	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:34:35,997	13304	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:34:35,997	13304	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:34:35,997	13304	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:34:35,997	13304	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:34:35,998	13305	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:34:40,536	17843	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:34:40,820	18127	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:34:40,837	18144	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:34:40,838	18145	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:34:40,838	18145	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:34:40,838	18145	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:34:52,889	30196	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:34:53,117	30424	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:34:53,133	30440	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:34:53,133	30440	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:34:53,133	30440	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:34:53,133	30440	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:34:53,133	30440	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:34:53,134	30441	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:34:53,134	30441	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:34:53,134	30441	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:34:53,134	30441	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:34:53,231	30538	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:34:53,434	30741	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 18:34:53,435	30742	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 18:34:53,498	30805	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 18:42:09,405	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:42:13,477	4072	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 18:42:15,243	5838	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 18:42:15,434	6029	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:42:15,459	6054	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:42:15,459	6054	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:42:15,459	6054	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:42:15,459	6054	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:42:15,460	6055	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:42:15,460	6055	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:42:15,460	6055	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:42:15,460	6055	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:42:18,684	9279	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 18:42:18,685	9280	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 18:42:18,685	9280	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 18:42:18,685	9280	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:42:18,685	9280	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:42:20,881	11476	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:42:21,217	11812	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:42:21,230	11825	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:42:21,230	11825	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:42:21,231	11826	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:42:21,231	11826	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:42:21,231	11826	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:42:21,231	11826	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:42:21,231	11826	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:42:21,232	11827	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:42:25,846	16441	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:42:26,187	16782	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:42:26,202	16797	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:42:26,203	16798	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:42:26,203	16798	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:42:26,203	16798	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:42:37,951	28546	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:42:38,107	28702	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:42:38,118	28713	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:42:38,118	28713	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:42:38,118	28713	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:42:38,119	28714	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:42:39,219	29814	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:42:39,446	30041	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 18:42:39,447	30042	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 18:42:39,505	30100	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 18:48:51,945	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:48:55,927	3982	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 18:48:57,701	5756	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 18:48:57,912	5967	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:48:57,938	5993	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:48:57,938	5993	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:48:57,938	5993	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:48:57,938	5993	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:48:57,938	5993	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:48:57,939	5994	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:48:57,939	5994	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:48:57,939	5994	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:49:01,471	9526	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 18:49:01,471	9526	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 18:49:01,471	9526	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 18:49:01,471	9526	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:49:01,471	9526	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:49:04,480	12535	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:49:06,155	14210	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:49:06,168	14223	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:49:06,169	14224	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:49:06,169	14224	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:49:10,606	18661	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:49:10,915	18970	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:49:10,935	18990	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:49:10,935	18990	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:49:10,936	18991	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:49:10,936	18991	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:49:10,936	18991	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:49:10,936	18991	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:49:10,937	18992	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:49:10,937	18992	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:49:10,937	18992	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:49:23,049	31104	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:49:23,230	31285	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:49:23,242	31297	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:49:24,431	32486	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:49:24,617	32672	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:49:24,632	32687	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:49:24,633	32688	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:49:35,427	43482	com.cjc.DWS.webapp.pages.Page5_Payment	[main]	order number= Order number: 1212110
+INFO	2022-06-27 18:49:41,960	50015	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:49:42,222	50277	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 18:49:42,223	50278	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 18:49:42,283	50338	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite
+INFO	2022-06-27 18:56:38,665	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:57:46,796	0	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen browser in BeforeSuiteee
+INFO	2022-06-27 18:57:50,939	4143	com.cjc.DWS.webapp.test.DWSTest	[main]	OPen Url in BeforeTest
+INFO	2022-06-27 18:57:52,928	6132	com.cjc.DWS.webapp.test.DWSTest	[main]	maximize webpage in BeforeClass
+INFO	2022-06-27 18:57:53,096	6300	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:57:53,128	6332	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:57:53,128	6332	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:57:53,128	6332	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:57:53,128	6332	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:57:53,128	6332	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:57:53,129	6333	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:57:53,129	6333	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:57:53,129	6333	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:57:56,595	9799	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Shubham
+INFO	2022-06-27 18:57:56,595	9799	com.cjc.DWS.webapp.pages.Page1_Register	[main]	Dandekar
+INFO	2022-06-27 18:57:56,595	9799	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shu123456@gmail.com
+INFO	2022-06-27 18:57:56,595	9799	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:57:56,596	9800	com.cjc.DWS.webapp.pages.Page1_Register	[main]	shubham123
+INFO	2022-06-27 18:57:58,777	11981	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:57:59,021	12225	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:57:59,045	12249	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:57:59,046	12250	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:57:59,046	12250	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:57:59,046	12250	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:57:59,046	12250	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:57:59,047	12251	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:57:59,047	12251	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:57:59,047	12251	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:58:03,745	16949	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:58:04,873	18077	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:58:04,911	18115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:58:04,912	18116	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:58:04,912	18116	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:58:16,705	29909	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:58:16,899	30103	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:58:16,911	30115	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:58:16,912	30116	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:58:16,912	30116	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:58:16,912	30116	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:58:18,011	31215	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:58:18,182	31386	com.cjc.DWS.webapp.test.DWSTest	[main]	This is Before method Annottion
+INFO	2022-06-27 18:58:18,192	31396	com.cjc.DWS.webapp.test.DWSTest	[main]	NOPCOMMERCE.AUTH
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmz
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__RequestVerificationToken
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	Nop.customer
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmt
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmb
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__utmc
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	__utma
+INFO	2022-06-27 18:58:18,193	31397	com.cjc.DWS.webapp.test.DWSTest	[main]	ARRAffinity
+INFO	2022-06-27 18:58:28,987	42191	com.cjc.DWS.webapp.pages.Page5_Payment	[main]	order number= Order number: 1212116
+INFO	2022-06-27 18:58:35,402	48606	com.cjc.DWS.webapp.test.DWSTest	[main]	CaptureScreenShot in AfterMethod
+INFO	2022-06-27 18:58:35,709	48913	com.cjc.DWS.webapp.test.DWSTest	[main]	delete cookies in after class
+INFO	2022-06-27 18:58:35,714	48918	com.cjc.DWS.webapp.test.DWSTest	[main]	Database close in after Test
+INFO	2022-06-27 18:58:35,788	48992	com.cjc.DWS.webapp.test.DWSTest	[main]	Browser close in after afterSuite

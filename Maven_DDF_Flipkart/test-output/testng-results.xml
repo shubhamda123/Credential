@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T20:28:20 IST" name="Default suite" finished-at="2022-07-06T20:28:52 IST" duration-ms="32305">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T20:28:20 IST" name="Default test" finished-at="2022-07-06T20:28:52 IST" duration-ms="32305">
+      <class name="com.cjc.fk.webapp.test.FlipkartTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:15 IST" name="openBrowser" finished-at="2022-07-06T20:28:20 IST" duration-ms="4970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:20 IST" name="openUrl" finished-at="2022-07-06T20:28:24 IST" duration-ms="3870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="maximizePage()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:24 IST" name="maximizePage" finished-at="2022-07-06T20:28:24 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizePage -->
+        <test-method is-config="true" signature="cookies()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:24 IST" name="cookies" finished-at="2022-07-06T20:28:24 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method signature="loginTest()[pri:1, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:24 IST" name="loginTest" finished-at="2022-07-06T20:28:28 IST" duration-ms="4355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:28 IST" name="CaptureScreenShot" finished-at="2022-07-06T20:28:29 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="cookies()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:29 IST" name="cookies" finished-at="2022-07-06T20:28:31 IST" duration-ms="2253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method signature="searchProd(java.lang.String)[pri:2, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:31 IST" name="searchProd" data-provider="getData" finished-at="2022-07-06T20:28:41 IST" duration-ms="10078" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pendrive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProd -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:41 IST" name="CaptureScreenShot" finished-at="2022-07-06T20:28:42 IST" duration-ms="1196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="cookies()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:42 IST" name="cookies" finished-at="2022-07-06T20:28:43 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method signature="searchProd(java.lang.String)[pri:2, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:43 IST" name="searchProd" data-provider="getData" finished-at="2022-07-06T20:28:51 IST" duration-ms="8848" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mi mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProd -->
+        <test-method is-config="true" signature="CaptureScreenShot()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:51 IST" name="CaptureScreenShot" finished-at="2022-07-06T20:28:52 IST" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenShot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:52 IST" name="deleteCookies" finished-at="2022-07-06T20:28:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="dataBaseClose()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:52 IST" name="dataBaseClose" finished-at="2022-07-06T20:28:52 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseClose -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.cjc.fk.webapp.test.FlipkartTest@79e4c792]" started-at="2022-07-06T20:28:52 IST" name="browserClose" finished-at="2022-07-06T20:28:53 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.cjc.fk.webapp.test.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
