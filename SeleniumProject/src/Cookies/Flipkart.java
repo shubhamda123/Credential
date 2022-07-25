@@ -1,0 +1,65 @@
+package Cookies;
+
+import java.util.Iterator;
+import java.util.Set;
+
+import org.openqa.selenium.Cookie;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Flipkart {
+
+	public static void main(String[] args) {
+
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\HP\\Downloads\\chrome exe for Selenium\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.flipkart.com/");
+		driver.manage().window().maximize();
+
+		Set<Cookie> cookies = driver.manage().getCookies();
+
+		int csize = cookies.size();
+		System.out.println(csize);
+
+	
+		 for(Cookie a :cookies) {
+		  
+		  System.out.println("cookie details");
+		  System.out.println("name="+a.getName());
+		  System.out.println("domain="+a.getDomain());
+		  System.out.println("class="+a.getClass());
+		  System.out.println("value="+a.getValue());
+		  System.out.println("path="+a.getPath());
+		  System.out.println("expiry="+a.getExpiry());
+		  System.out.println("ishttponly"+a.isHttpOnly());
+		  System.out.println("secure"+a.isSecure());
+		  
+		  System.out.println("--------------"); }
+		 
+//		Iterator<Cookie> itr = cookies.iterator();
+//		while (itr.hasNext()) 
+//		{
+//			Cookie a = itr.next();
+//			System.out.println("cookie details");
+//			  System.out.println("name="+a.getName());
+//			  System.out.println("domain="+a.getDomain());
+//			  System.out.println("class="+a.getClass());
+//			  System.out.println("value="+a.getValue());
+//			  System.out.println("path="+a.getPath());
+//			  System.out.println("expiry="+a.getExpiry());
+//			  System.out.println("ishttponly"+a.isHttpOnly());
+//			  System.out.println("secure"+a.isSecure());
+//
+//			System.out.println("--------------");
+//		}
+
+		driver.manage().deleteCookieNamed("_px3");
+
+		Set<Cookie> d = driver.manage().getCookies();
+		int cookie = d.size();
+		System.out.println("all cookie after delete=" + cookie);
+
+		driver.close();
+	}
+
+}
