@@ -11,7 +11,7 @@ public class A {
 	
 	
     public void add()
-    {
+    { System.out.println("Hello world");
     	int a=10;
     	int b=20;
     	int c=a+b;
